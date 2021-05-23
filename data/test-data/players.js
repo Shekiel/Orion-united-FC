@@ -50,3 +50,4 @@ module.exports = [
     photo: '../img/annabelle.jpg',
   },
 ];
+//  test
